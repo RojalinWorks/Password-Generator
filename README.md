@@ -25,8 +25,12 @@ A sleek, modern, and responsive web-based password generator that lets you gener
 ### 🖼️ Screenshot
 ![Screenshot](assets/screenshot.png)
 
+
 ### 📽️ Screen Recording
-![ScreenRecording](assets/screenrecord.mp4)
+<video width="100%" controls>
+  <source src="assets/screenrecord.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
